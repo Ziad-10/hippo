@@ -2,7 +2,9 @@
 
 | Module | CP | Assessment | Materials and notes |
 | --- | --: | --- | --- |
-| [[Example Module]] | 5 | Written exam 90 min | Lecture 01 slides (via Moodle sync); [[Example Module - Lecture 01 summary and quiz]] |
+| [[Example Module]] | 5 | Written exam 90 min | Lecture slides via Moodle sync; [[Example Module - Lecture 01 summary and quiz]] |
+| [[Linear Algebra]] | 5 | Written exam 120 min | [[Linear Algebra - Eigenvalues cheat sheet]] |
+| [[Web Development]] | 5 | Team project | [[Web Development - Project plan]] |
 
 ## Folder convention
 

@@ -1,6 +1,6 @@
 # Example Module - Lecture 01 summary and quiz
 
-Date: 2026-10-20 · Source: `Materials/Lecture 1/01-searching.pdf` · Module: [[Example Module]]
+Date: 2026-10-20 · Source: `Materials/Lectures/01-searching.pdf` · Module: [[Example Module]]
 
 *Demo note showing the kind of result the assistant saves after a study session.*
 

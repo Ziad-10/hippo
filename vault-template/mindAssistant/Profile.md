@@ -15,6 +15,8 @@ The assistant fills this in during onboarding ([[Contract]] §3), one question a
 ### Modules
 
 - [[Example Module]]
+- [[Linear Algebra]]
+- [[Web Development]]
 
 ### Exams and deadlines
 

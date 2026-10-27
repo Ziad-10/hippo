@@ -40,6 +40,18 @@ GoodNotes has no API or watched import folder, so the last step is one tap:
 2. **Repeat with each item in** Folder Contents → **Open** Repeat Item **in** Goodnotes
 3. **End Repeat** → **Delete** Folder Contents (*Delete Immediately* off, so files go to Recently Deleted)
 
+<img src="../docs/screenshots/shortcut.png" alt="The Import to GoodNotes shortcut in the iPad Shortcuts app" width="560">
+
+## Try it without a Moodle account
+
+`demo/fake_moodle.py` imitates the parts of Moodle's API the script uses, with three sample courses:
+
+```bash
+python3 demo/fake_moodle.py &                       # http://127.0.0.1:8765
+printf '%032d\n' 0 > /tmp/demo-token
+MOODLE_SYNC_TOKEN_FILE=/tmp/demo-token python3 moodle_sync.py sync --dry-run   # with "site" set to the fake server
+```
+
 ## Design decisions
 
 - **A scheduled script, not an AI agent.** Syncing is deterministic, so it runs for free and keeps working when no assistant is open. The AI assistant reads the results from the vault.

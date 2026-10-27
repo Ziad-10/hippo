@@ -37,7 +37,7 @@ HOME = Path(os.environ.get("MOODLE_SYNC_HOME", Path(__file__).resolve().parent))
 CONFIG_PATH = HOME / "config.json"
 STATE_PATH = HOME / "state.json"
 # Kept outside the sync folder and the vault so it never ends up in git or a cloud drive.
-TOKEN_PATH = Path.home() / ".config" / "moodle-sync" / "token"
+TOKEN_PATH = Path(os.environ.get("MOODLE_SYNC_TOKEN_FILE", Path.home() / ".config" / "moodle-sync" / "token"))
 TIMEOUT = 60
 
 

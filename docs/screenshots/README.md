@@ -1,9 +1,12 @@
-# Screenshots to add
+# Screenshots
 
-Use the demo vault or blur personal details before capturing.
+Done:
+- `demo.gif`: the sync running against the fake Moodle server (re-record with `DEMO=… vhs docs/demo.tape`).
+- `shortcut.png`: the iOS "Import to GoodNotes" shortcut.
 
-1. `demo.gif`: a new Moodle file appearing in Obsidian, then in GoodNotes after the Shortcut (10–20 s).
-2. `vault.png`: the Obsidian graph or file tree of the module structure.
-3. `weekly-plan.png`: a Weekly Planner output (anonymise times and work details).
-4. `quiz.png`: a study session quiz with feedback.
-5. `shortcut.png`: the iOS "Import to GoodNotes" shortcut.
+To add (use the demo vault, never the real one):
+1. `vault.png`: Obsidian file tree with the module structure.
+2. `graph.png`: Obsidian graph view.
+3. `weekly-plan.png`: `Notes/Weekly plans/2026-W44.md`.
+4. `quiz.png`: `Example Module - Lecture 01 summary and quiz.md`.
+5. `ipad.gif`: running the shortcut on the iPad and the PDFs appearing in GoodNotes.

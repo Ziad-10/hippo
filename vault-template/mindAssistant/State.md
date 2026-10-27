@@ -10,7 +10,8 @@ Kept short on purpose (see [[Contract]] §5): current status, open questions, an
 
 ## Active work
 
-- [[Example Module]] — first lecture summarised.
+- [[Example Module]] — first lecture summarised; sheet 1 due Fri.
+- Current plan: [[2026-W44]].
 
 ## Open questions
 

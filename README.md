@@ -4,7 +4,9 @@
 
 I'm a Computer Science student at Frankfurt University of Applied Sciences. My study material was scattered: slides on Moodle, notes in Obsidian, handwriting in GoodNotes, deadlines in my calendar. Every week I downloaded files by hand, and every AI chat started from zero. mindAssistant fixes both: course files arrive by themselves, and the assistant remembers what I've studied, where I struggle, and what's due.
 
-<!-- Add a demo GIF here: docs/screenshots/demo.gif -->
+![moodle-sync downloading new course files into the vault and the GoodNotes folder](docs/screenshots/demo.gif)
+
+<sub>The sync running against a local stand-in for Moodle with sample courses (<a href="moodle-sync/demo/fake_moodle.py"><code>fake_moodle.py</code></a>), so no real course data is shown. Recorded with <a href="docs/demo.tape">vhs</a>.</sub>
 
 ## What it does
 
