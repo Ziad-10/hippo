@@ -15,6 +15,21 @@ I'm a Computer Science student at Frankfurt University of Applied Sciences. My s
 - **Teaches.** Study sessions are quizzes and explanations based on my own course files and saved weak topics, so the next session picks up where the last one ended.
 - **Syncs.** A Python script pulls new files from Moodle twice a day into the right module folder and passes new PDFs on to GoodNotes on the iPad.
 
+## Screenshots
+
+<table>
+<tr>
+<td width="50%"><img src="docs/screenshots/vault.png" alt="Module-first vault structure in Obsidian"><br><sub><b>The vault.</b> Each module has <code>Materials/</code> (filled by the Moodle sync) and <code>Notes/</code> (written with the assistant).</sub></td>
+<td width="50%"><img src="docs/screenshots/graph.png" alt="Obsidian graph view of the real vault"><br><sub><b>My real vault after two months</b>: notes (white) linked to course files (yellow). Labels blurred for privacy.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/weekly-plan.png" alt="A weekly plan written by the Weekly Planner agent"><br><sub><b>Weekly Planner output</b>: focus module, deadlines, a concrete task for every slot.</sub></td>
+<td><img src="docs/screenshots/quiz.png" alt="A saved study session with summary, quiz and weak topics"><br><sub><b>A saved study session</b>: summary, one-question-at-a-time quiz, weak topics fed back into the module.</sub></td>
+</tr>
+</table>
+
+Screens from the demo vault in [`vault-template/`](vault-template/) unless noted.
+
 ## Architecture
 
 ```mermaid
