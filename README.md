@@ -10,7 +10,7 @@ I'm a Computer Science student at Frankfurt University of Applied Sciences. My s
 
 ![On the iPad: one tap on the shortcut imports the new PDFs into GoodNotes](docs/screenshots/ipad.gif)
 
-<sub>On the iPad: one tap imports the new PDFs from iCloud into GoodNotes and clears the folder. A personal notebook cover is blurred.</sub>
+<sub>On the iPad: one tap imports the new PDFs from iCloud into GoodNotes and clears the folder.</sub>
 
 ## What it does
 
