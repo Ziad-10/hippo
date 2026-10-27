@@ -1,0 +1,13 @@
+# Never commit personal setup or secrets
+config.json
+state.json
+token
+logs/
+*.part
+
+# Obsidian per-device state
+.obsidian/workspace*.json
+.obsidian/cache
+
+.DS_Store
+__pycache__/

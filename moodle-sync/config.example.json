@@ -1,0 +1,13 @@
+{
+  "site": "https://moodle.example-university.edu",
+  "modules_dir": "~/Documents/Obsidian Vault/mindAssistant/Modules",
+  "goodnotes_dir": "~/Library/Mobile Documents/com~apple~CloudDocs/To GoodNotes",
+  "goodnotes_extensions": [".pdf"],
+  "link_prefix": "mindAssistant/Modules/",
+  "report_note": "~/Documents/Obsidian Vault/mindAssistant/Notes/Moodle downloads.md",
+  "skip_extensions": [".mp4", ".mov", ".m4v", ".mkv", ".avi"],
+  "max_file_mb": 200,
+  "courses": {
+    "1234": {"module": "Example Module", "enabled": true}
+  }
+}
