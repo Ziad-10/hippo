@@ -5,4 +5,4 @@
 - `vault.png`, `weekly-plan.png`, `quiz.png`: the demo vault in Obsidian.
 - `graph.png`: graph view of the real vault, blurred so no labels are readable.
 
-To add: `ipad.gif`, running the shortcut on the iPad and the PDFs appearing in GoodNotes.
+- `ipad.gif`: iPad screen recording of the shortcut importing the demo PDFs into GoodNotes (one personal notebook cover blurred).

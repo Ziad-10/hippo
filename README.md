@@ -8,6 +8,10 @@ I'm a Computer Science student at Frankfurt University of Applied Sciences. My s
 
 <sub>The sync running against a local stand-in for Moodle with sample courses (<a href="moodle-sync/demo/fake_moodle.py"><code>fake_moodle.py</code></a>), so no real course data is shown. Recorded with <a href="docs/demo.tape">vhs</a>.</sub>
 
+![On the iPad: one tap on the shortcut imports the new PDFs into GoodNotes](docs/screenshots/ipad.gif)
+
+<sub>On the iPad: one tap imports the new PDFs from iCloud into GoodNotes and clears the folder. A personal notebook cover is blurred.</sub>
+
 ## What it does
 
 - **Remembers.** The assistant's memory is my Obsidian vault: plain Markdown notes it reads, searches and writes. A working contract defines what it saves (decisions, weak topics, deadlines, study results) and what it doesn't (small talk, one-off answers).
