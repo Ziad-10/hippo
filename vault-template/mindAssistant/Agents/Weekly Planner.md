@@ -1,7 +1,7 @@
 # Weekly Planner
 
 Status: trust stage 1 (suggest only).
-Part of mindAssistant. Behaviour rules come from [[Contract]]; facts about the user come from [[Profile]]. This note defines only this agent's job.
+Part of Hippo. Behaviour rules come from [[Contract]]; facts about the user come from [[Profile]]. This note defines only this agent's job.
 
 ## Identity
 

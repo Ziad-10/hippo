@@ -1,4 +1,4 @@
-# mindAssistant working contract
+# Hippo working contract
 
 Adapted for Claude and Codex from a guide by Alex Troost, mindsquare AG, webinar “Dein zweites Gehirn: Mit 7 Tipps zum eigenen KI-Assistenten fürs Studium”.
 
@@ -42,7 +42,7 @@ Do not save ordinary conversation, acknowledgments, minor clarifications, one-of
 - Link named modules, professors, subjects, projects, and related notes with `[[Wikilinks]]`, including useful links whose targets do not yet exist.
 - Save new results in `mindAssistant/Notes/` unless an existing vault location is more appropriate. Read before editing; preserve unrelated content and concurrent user edits.
 - For non-study life topics (gym, routines, life projects), use `mindAssistant/Life/` as described in [[Life overview]]. Keep study and life notes separate.
-- For coursework, use the module-first structure `mindAssistant/Modules/<Module>/`: keep the module home note at the module root, source files in `Materials/`, and module-specific summaries, quizzes, feedback, and plans in `Notes/`. Use `mindAssistant/Notes/` for cross-module and mindAssistant-wide results.
+- For coursework, use the module-first structure `mindAssistant/Modules/<Module>/`: keep the module home note at the module root, source files in `Materials/`, and module-specific summaries, quizzes, feedback, and plans in `Notes/`. Use `mindAssistant/Notes/` for cross-module and Hippo-wide results.
 - Include date, a descriptive title, result, assumptions or uncertainty, sources when relevant, related notes, and next actions when any. Use ordinary Markdown; no proprietary database is required.
 - Record user statements as user-provided. Distinguish verified facts, estimates, proposals, and unresolved questions. Include source URLs or file references for research; never fabricate citations.
 - Keep `State.md` concise: interview progress, active work, open questions, and links to new results. Save deadlines in Profile.md until the user's task/calendar system is established. Do not claim calendar events were created from a note alone.

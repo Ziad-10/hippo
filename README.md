@@ -1,8 +1,10 @@
-# mindAssistant
+# Hippo 🦛
 
 **A personal AI study assistant built on Obsidian and Claude, with an automated pipeline that brings course materials from the university's Moodle to my notes and my iPad.**
 
-I'm a Computer Science student at Frankfurt University of Applied Sciences. My study material was scattered: slides on Moodle, notes in Obsidian, handwriting in GoodNotes, deadlines in my calendar. Every week I downloaded files by hand, and every AI chat started from zero. mindAssistant fixes both: course files arrive by themselves, and the assistant remembers what I've studied, where I struggle, and what's due.
+I'm a Computer Science student at Frankfurt University of Applied Sciences. My study material was scattered: slides on Moodle, notes in Obsidian, handwriting in GoodNotes, deadlines in my calendar. Every week I downloaded files by hand, and every AI chat started from zero. Hippo fixes both: course files arrive by themselves, and the assistant remembers what I've studied, where I struggle, and what's due.
+
+*Named after the **hippocampus**, the part of the brain that turns what you experience into long-term memory, which is this project's job too.*
 
 ![moodle-sync downloading new course files into the vault and the GoodNotes folder](docs/screenshots/demo.gif)
 
@@ -68,7 +70,7 @@ flowchart LR
 ## Try it
 
 1. Copy `vault-template/` somewhere and open it as an Obsidian vault.
-2. Open it with Claude (or Codex) and say **"Start my mindAssistant"**. It runs the onboarding interview and fills in `Profile.md`.
+2. Open it with Claude (or Codex) and say **"Start Hippo"**. It runs the onboarding interview and fills in `Profile.md`.
 3. Set up the Moodle sync: see [`moodle-sync/README.md`](moodle-sync/README.md).
 
 ## Built with
@@ -77,11 +79,15 @@ Python (standard library only) · Moodle Web Services API · macOS launchd · iO
 
 ## Shoutout to mindsquare 💡
 
-The core idea behind mindAssistant comes from [mindsquare](https://mindsquare.de). Alex Troost's webinar *"Dein zweites Gehirn: Mit 7 Tipps zum eigenen KI-Assistenten fürs Studium"* showed how Obsidian and an AI assistant can become a second brain for studying. The working contract in this repo is adapted from that guide. Everything around it (the agents, the Moodle pipeline, the GoodNotes workflow) grew from there. Thank you for the inspiration!
+The core idea behind Hippo comes from [mindsquare](https://mindsquare.de). Alex Troost's webinar *"Dein zweites Gehirn: Mit 7 Tipps zum eigenen KI-Assistenten fürs Studium"* showed how Obsidian and an AI assistant can become a second brain for studying. The working contract in this repo is adapted from that guide. Everything around it (the agents, the Moodle pipeline, the GoodNotes workflow) grew from there. Thank you for the inspiration!
 
 ## Credits
 
 I designed and run the system; much of it was built in pair-programming sessions with Claude.
+
+## About the name
+
+Hippo started out as *mindAssistant*, so the vault folder in `vault-template/` (and in the screenshots) is still called `mindAssistant/`.
 
 ## License
 

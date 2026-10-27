@@ -1,18 +1,18 @@
-# How to use mindAssistant
+# How to use Hippo
 
 ## Basic rule
 
-Open Claude (or Codex) with this vault as the project. Begin a fresh task with "Start my mindAssistant" so it reads [[Contract]], [[Profile]], and [[State]] and searches relevant notes. Then describe the result you want in ordinary language. Durable results are saved to the vault; casual conversation stays in the chat.
+Open Claude (or Codex) with this vault as the project. Begin a fresh task with "Start Hippo" so it reads [[Contract]], [[Profile]], and [[State]] and searches relevant notes. Then describe the result you want in ordinary language. Durable results are saved to the vault; casual conversation stays in the chat.
 
 ## After a lecture
 
 New Moodle files arrive in the module's `Materials/` folder by themselves (see [[Moodle downloads]]). Handwritten GoodNotes notes can be exported to `Materials/Handwritten notes/` when assistant help is wanted.
 
-> Start my mindAssistant. Lecture 2 for Example Module just arrived from Moodle. Summarise the main ideas, connect them to my earlier notes, and save the result. Don't quiz me yet.
+> Start Hippo. Lecture 2 for Example Module just arrived from Moodle. Summarise the main ideas, connect them to my earlier notes, and save the result. Don't quiz me yet.
 
 ## Study session
 
-> Start my mindAssistant. Quiz me on Example Module Lecture 1, one question at a time. Explain my mistakes and save the quiz, feedback, and weak topics.
+> Start Hippo. Quiz me on Example Module Lecture 1, one question at a time. Explain my mistakes and save the quiz, feedback, and weak topics.
 
 Other useful requests:
 
